@@ -1,0 +1,21 @@
+{
+  "ambient_nk": [1.0, 0.0],
+  "substrate_nk": [1.52, 0.0],
+  "polarization": "avg",
+  "mode": "angle_scan",
+  "wavelength_nm": 550,
+  "angle_deg_start": 0,
+  "angle_deg_stop": 80,
+  "angle_deg_step": 1,
+  "layers": [
+    {
+      "repeat": {
+        "times": 6,
+        "layers": [
+          [2.10, 0.0, 65.5],
+          [1.45, 0.0, 94.8]
+        ]
+      }
+    }
+  ]
+}
